@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+*{
+
+  margin: 0;
+  padding: 0;
+
+}
+
+body{    
+    font-family: 'Varela Round', sans-serif;
+    overflow-x: hidden;
+    
+}
+
+a:hover{
+  text-decoration:none;
+  color:#FFD800;
+}
+
+.logo {
+  width: 23px;
+  font-size: 34px;
+  font-weight: 800;
+  color:#FFD800;
+  text-decoration: none;
+  left:40px;
+  display:inline-block;
+  margin-top: 33px;
+  line-height: 1;
+  margin-bottom: 10px;
+  
+}
+
+.mobile-app-banner{
+    
+    background-image: url(slider9.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    background-repeat: no-repeat;
+ 
+}
+
+.mobile-app-banner-content{
+
+    color: white;
+    margin-top: 160px;
+
+}
+
+.mobile-app-banner-content h1{
+    
+    font-size: 56px;
+    color: white;
+    font-weight: 600;    
+    
+}
+
+
+.mobile-app-banner-content p{
+    font-size:20px;
+    color:black;
+    line-height: 30px;
+    margin: 40px 0px;
+}
+
+.btn{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-weight: normal;
+    line-height: 1.42;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 31px;
+    border-image: 4px;
+    background-color: #ff6680; 
+    color: white;
+    font-weight: 600 !important;
+    margin-right: 10px;
+    font-size: 18px;
+    
+}
+
+.buttons .btn{
+    padding: 18px 40px;
+    margin-bottom: 20px;
+    margin-right: 13px;
+}
+
+.btn:hover {
+  background-color: #00fa66;
+}
+

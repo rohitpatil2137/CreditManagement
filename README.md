@@ -1,1 +1,1 @@
-# CreditManagement
+# credit-management-spark-foundation
